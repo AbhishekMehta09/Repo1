@@ -1,6 +1,6 @@
 package com.omnidesk.portlet;
 
-import com.liferay.asset.kernel.model.AssetCategory;
+import com.liferay.asset.kernel.model.AssetCategory - ABC;
 
 import java.util.ArrayList;
 import java.util.List;
