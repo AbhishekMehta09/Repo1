@@ -12,6 +12,7 @@
 		<div class="wikis dotted-bg">
 	</c:otherwise>
 </c:choose>
+
 	<div class="container ">
 	     
 	 <!-- Filter -->
