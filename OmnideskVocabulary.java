@@ -1,5 +1,3 @@
-temp;
-
 package com.omnidesk.portlet;
 
 import com.liferay.asset.kernel.model.AssetCategory;
